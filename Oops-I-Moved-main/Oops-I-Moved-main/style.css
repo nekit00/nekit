@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: linear-gradient(#87ceeb, #3cb043);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#ui {
+  margin: 10px;
+}
+
+#world {
+  position: relative;
+  width: 800px;
+  height: 600px;
+  background: #3cb043;
+  border: 4px solid #222;
+  overflow: hidden;
+}
+
+#player {
+  position: absolute;
+  width: 40px;
+  image-rendering: pixelated;
+}
+
+#playerName {
+  position: absolute;
+  color: white;
+  font-size: 12px;
+  text-align: center;
+  pointer-events: none;
+}
+
