@@ -1,3 +1,3 @@
 # nekit
-I think, I forgot about this project
-# Here will be some of small projects
+## I think, I forgot about this project
+ - Here will be some of small projects
